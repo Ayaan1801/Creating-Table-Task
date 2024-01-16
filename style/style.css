@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(7, 13, 125, 0.745);
+}
+
+table{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+
+h3{
+    text-align: center;
+    color: whitesmoke;
+}
+
+table, tr, th, td{
+    text-align: center;
+    color: whitesmoke;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th{
+    color: rgb(18, 135, 207);
+}
